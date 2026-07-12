@@ -142,7 +142,7 @@ This project also includes an Android WebView application developed using Androi
 
 ## 👨‍💻 Developer
 
-**Ratul Hosen**
+**Ratul Hossain**
 
 Department of Computer Science & Technology
 
