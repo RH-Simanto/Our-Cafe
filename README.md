@@ -117,8 +117,6 @@ http://localhost/our-cafe
 
 ## 🌐 Live Demo
 
-Website:
-
 https://rhcoffee.free.nf
 
 ---
