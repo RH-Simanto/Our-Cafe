@@ -117,8 +117,7 @@ http://localhost/our-cafe
 
 ## 🌐 Live Demo
 
-https://rhcoffee.free.nf
-
+[OurCafe](https://rhcoffee.free.nf)
 ---
 
 ## 📱 Android App
